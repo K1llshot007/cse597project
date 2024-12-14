@@ -69,3 +69,7 @@ These metrics demonstrate the effectiveness of the fine-tuning process.
 Senmao Ye, Fei Liu, Minkui Tan  
 *arXiv preprint arXiv:2204.10482, 2022*  
 [Read the paper on arXiv](https://arxiv.org/abs/2204.10482)
+
+---
+## Checkpoint
+following is the link to the [checkpoint](https://drive.google.com/file/d/1TEONNP7pepgAAtx9kOQbIlJgzKzYl_uC/view?usp=sharing) where I stopped training the model 
