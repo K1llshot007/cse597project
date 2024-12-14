@@ -1,0 +1,18 @@
+name: DiT2
+channels:
+  - pytorch
+  - nvidia
+dependencies:
+  - python >= 3.8
+  - pytorch >= 1.13
+  - torchvision
+  - pytorch-cuda=11.8
+  - pip:
+    - timm
+    - diffusers
+    - accelerate
+    - git+https://github.com/openai/CLIP.git
+    - scipy
+    - tensorflow
+    - pillow
+    - scikit-image
