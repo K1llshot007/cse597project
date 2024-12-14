@@ -32,7 +32,7 @@ These metrics demonstrate the effectiveness of the fine-tuning process.
 
 ### Step 2: Download Pre-Trained Diffuser
    Download the pre-trained diffuser model fine-tuned on the extrapolated dataset. Detailed instructions for downloading the model can be found in the original README file included in this repository.  
-   - **Optional:** If you prefer, you can train the model from scratch using the provided dataset. Dataset download links are also included in the original README file.
+   - If you prefer, you can train the model from scratch using the provided dataset. Dataset download links are also included in the original README file.
 
 ### Step 3: Fine-Tune the Model
    Fine-tune the pre-trained diffuser model using the `train.py` script. Run the following command to begin training:  
