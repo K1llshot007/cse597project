@@ -17,7 +17,7 @@ This repository contains the code and resources for the CSE 597 project. Follow 
 The fine-tuned model achieved the following performance metrics:
 
 - **Inception Score (IS):** 6.53  
-- **Frechet Inception Distance (FID):** 10.21  
+- **Frechet Inception Distance (FID):** 30.21  
 
 These metrics demonstrate the effectiveness of the fine-tuning process.
 
